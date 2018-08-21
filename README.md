@@ -41,7 +41,7 @@ BTC payments directly to your wallet every Monday. You have access to income sta
 - Extract zip archive
 - Run ManageRigs.exe
 - For the first time you will be asked for your btc payout address, you can change it later in btc.txt file.
-- You will receive Bitcoin payments according to our payments schedule and get access link to your stats webpage inside the app.
+- You will receive Bitcoin payments according to our payments schedule and get access to your stats webpage by entering your wallet address at [ManageRigs.com](https://managerigs.com/).
 
 
 # <a name="bugs"></a> How to report bugs and issues?
