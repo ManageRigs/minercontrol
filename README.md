@@ -47,4 +47,5 @@ BTC payments directly to your wallet every Monday. You have access to income sta
 # <a name="bugs"></a> How to report bugs and issues?
 
 You can reach our support team [here at ManageRigs.com](http://managerigs.com/#contact_us)
+
 To report bugs and issues please use the [GitHub issue reporting tool](https://github.com/ManageRigs/minercontrol/issues). Any bugs and issues reports are very much appreciated since it helps us to improve. Thank you.
