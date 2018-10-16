@@ -32,7 +32,7 @@ A team of developers and miners, which developed a product that maximizes mining
 
 # <a name="payments"></a> What about payments?
 
-BTC payments directly to your wallet every Monday. You have access to income stats, updated every day.
+BTC payments directly to your wallet every Monday. You have access to income stats, updated every day [here](http://managerigs.com/#check_wallet).
 
 
 # <a name="start"></a> What do I need to start?
@@ -41,7 +41,7 @@ BTC payments directly to your wallet every Monday. You have access to income sta
 - Extract zip archive
 - Run ManageRigs.exe
 - For the first time you will be asked for your btc payout address, you can change it later in btc.txt file.
-- You will receive Bitcoin payments according to our payments schedule and get access to your stats webpage by entering your wallet address at [ManageRigs.com](https://managerigs.com/).
+- You will receive Bitcoin payments according to our payments schedule and get access to your stats webpage by entering your wallet address at [ManageRigs.com](http://managerigs.com/#check_wallet).
 
 
 # <a name="bugs"></a> How to report bugs and issues?
