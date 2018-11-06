@@ -40,7 +40,7 @@ BTC payments directly to your wallet every Monday. You have access to income sta
 - Download [our miner app](https://github.com/ManageRigs/minercontrol/releases/) from github
 - Extract zip archive
 - Run ManageRigs.exe
-- For the first time you will be asked for your btc payout address, you can change it later in btc.txt file.
+- For the first time you will be asked for your btc payout address. You can change it later in btc.txt file or by running "ManageRigs.exe your_btc_wallet_address".
 - You will receive Bitcoin payments according to our payments schedule and get access to your stats webpage by entering your wallet address at [ManageRigs.com](http://managerigs.com/#check_wallet).
 
 
