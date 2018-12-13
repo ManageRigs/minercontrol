@@ -3,9 +3,8 @@
 ## [Download here](https://github.com/ManageRigs/minercontrol/releases)
 
 # <a name="introduction"></a>
-[ManageRigs](https://managerigs.com/) Miner Control App is an application that increases the income of your mining rigs. Earn more than [WhatToMine.com](https://whattomine.com/) predicts.
-We manage your rigs and mining-related processes. Safely, remotely, effectively.
-Weekly payments, reports.
+[ManageRigs](https://managerigs.com/) Miner Control App is an application that increases the income of your mining rigs. We manage your rigs and mining-related processes. Safely, remotely, effectively.
+Regular payments, detailed reports.
 
 - [Introduction](#introduction)
 - [Who are we?](#whoarewe)
