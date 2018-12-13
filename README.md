@@ -22,6 +22,8 @@ A team of developers and miners, which developed a product that maximizes mining
 
 # <a name="how"></a> How do we do that?
 
+- latest and fastest software versions
+- our own mining pools with no fees
 - automatic switching between profitable currencies and algos
 - algorythmic trading to gain maximum profit
 - stop loss protection
