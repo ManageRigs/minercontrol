@@ -52,7 +52,7 @@ BTC payments directly to your wallet every Monday. You have access to income sta
 - Next you will see new partition with btc.txt file
 - Change YOUR_BTC_WALLET line in btc.txt to your payout BTC-wallet address
 - Boot your rig from newly created USB flash drive
-- Enjoy! You can check your stats by entering BTC-wallet address at http://managerigs.com/
+- Enjoy! You can check your stats by entering BTC-wallet address at [ManageRigs.com](http://managerigs.com/#check_wallet).
 
 # <a name="bugs"></a> How to report bugs and issues?
 
