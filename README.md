@@ -38,12 +38,21 @@ BTC payments directly to your wallet every Monday. You have access to income sta
 
 # <a name="start"></a> What do I need to start?
 
+### For Windows:
 - Download [our miner app](https://github.com/ManageRigs/minercontrol/releases/) from github
 - Extract zip archive
 - Run ManageRigs.exe
 - For the first time you will be asked for your btc payout address. You can change it later in btc.txt file or by running "ManageRigs.exe your_btc_wallet_address".
 - You will receive Bitcoin payments according to our payments schedule and get access to your stats webpage by entering your wallet address at [ManageRigs.com](http://managerigs.com/#check_wallet).
 
+### For Linux:
+- Download [USB ISO image](http://managerigs.com/ManageRigs.com_Linux.zip)
+- Unzip ManageRigs.com_Linux.img from ManageRigs.com_Linux.zip
+- Write ManageRigs.com_Linux.img to USB flash drive. We suggest using [rufus.ie](https://rufus.ie) writer
+- Next you will see new partition with btc.txt file
+- Change YOUR_BTC_WALLET line in btc.txt to your payout BTC-wallet address
+- Boot your rig from newly created USB flash drive
+- Enjoy! You can check your stats by entering BTC-wallet address at http://managerigs.com/
 
 # <a name="bugs"></a> How to report bugs and issues?
 
